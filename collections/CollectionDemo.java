@@ -17,6 +17,9 @@ public class CollectionDemo {
 
         System.out.println(fruitcollection.contains("apple"));
         fruitcollection.forEach((element) -> System.out.println(element));
+
+        fruitcollection.clear();
+        System.out.println(fruitcollection);
     }
 
 }

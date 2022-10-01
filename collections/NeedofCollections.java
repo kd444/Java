@@ -1,7 +1,5 @@
 package collections;
 
-import java.rmi.server.ObjID;
-
 public class NeedofCollections {
 
     public static void main(String[] args) {
