@@ -18,7 +18,7 @@ public class CalculatorImpl {
         Calculator calculator = () -> {
             System.out.println("switch on ");
         };
-
+        // anonymous functions works as only one asbtract method
         calculator.switchOn();
 
     }
